@@ -1,8 +1,8 @@
-[<p align="center">
+<p align="center">
 
   <img src="https://globaledu.net.in/front-end-development" alt="Coder GIF" width="500" height="400">
   
-</p>]([https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://globaledu.net.in/front-end-development))
+</p>
 ### Hi there 👋, My nombre es Elias
 #### Full Stack web developer
 
