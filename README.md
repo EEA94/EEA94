@@ -7,7 +7,7 @@
 ### Hola 👋, mi nombre es Elias.
 #### Full Stack web developer.
 
-Tengo 28 años, vivo en Cordoba, Argentina. Soy desarrollador web full stack, tengo experiencia trabajando con algunas de las principales tecnologías disponibles en el mercado actual. Me gustaría compartir con ustedes los ultimos proyectos en los que he estado trabajando.
+Tengo 28 años, vivo en Cordoba, Argentina. Soy desarrollador web full stack, tengo experiencia trabajando con algunas de las principales tecnologías demandadas en el mercado actual. Me gustaría compartir con ustedes los ultimos proyectos en los que he estado trabajando.
 
 Skills: JavaScript / React / Node / CSS
 
