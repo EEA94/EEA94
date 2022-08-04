@@ -1,12 +1,12 @@
 <p align="center">
 
-  <img src="https://sdk.bitmoji.com/render/panel/20054902-99777517205_2-s5-v1.png?transparent=1&palette=1&scale=2" alt="Coder GIF" width="500" height="350">
+  <img src="https://sdk.bitmoji.com/render/panel/20054902-99777517205_2-s5-v1.png?transparent=1&palette=1&scale=2" alt="Coder GIF" width="500" height="400">
   
 </p>
-### Hi there 👋, My nombre es Elias
+### Hi there 👋, my nombre es Elias
 #### Full Stack web developer
 
-Tengo 28 años, vivo en Cordoba, Argentina. Soy desarrollador web full stack, actualmente enfocado en el frontend, aprendiendo nuevas tecnologías y reforzando el conocimiento en las ya conocidas. Me gustaría compartir con ustedes los ultimos proyectos en los que he estado trabajando.
+Tengo 28 años, vivo en Cordoba, Argentina. Soy desarrollador web full stack, tengo experiencia trabajando con algunas de las principales tecnologías disponibles en el mercado actual. Me gustaría compartir con ustedes los ultimos proyectos en los que he estado trabajando.
 
 Skills: JavaScript / React / Node / CSS
 
