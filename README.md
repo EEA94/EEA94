@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Coder GIF" width="500" height="350">
+  <img src="https://sdk.bitmoji.com/render/panel/20054902-99777517205_2-s5-v1.png?transparent=1&palette=1&scale=2" alt="Coder GIF" width="500" height="350">
   
 </p>
 ### Hi there 👋, My nombre es Elias
