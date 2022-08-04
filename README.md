@@ -1,4 +1,8 @@
- <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://globaledu.net.in/front-end-development)" alt="Coder GIF" width="500" height="400">
+<p align="center">
+
+  <img src="https://globaledu.net.in/front-end-development" alt="Coder GIF" width="500" height="400">
+  
+</p>
 ### Hi there 👋, My nombre es Elias
 #### Full Stack web developer
 ![Full Stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
