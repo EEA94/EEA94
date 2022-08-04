@@ -1,11 +1,10 @@
-<p align="center">
+[<p align="center">
 
   <img src="https://globaledu.net.in/front-end-development" alt="Coder GIF" width="500" height="400">
   
-</p>
+</p>]([https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://globaledu.net.in/front-end-development))
 ### Hi there 👋, My nombre es Elias
 #### Full Stack web developer
-![Full Stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Tengo 28 años, vivo en Cordoba, Argentina. Soy desarrollador web full stack, actualmente enfocado en el frontend, aprendiendo nuevas tecnologías y reforzando el conocimiento en las ya conocidas. Me gustaría compartir con ustedes los ultimos proyectos en los que he estado trabajando.
 
