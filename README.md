@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Coder GIF" width="500" height="400">
+  <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="Coder GIF" width="500" height="350">
   
 </p>
 ### Hi there 👋, My nombre es Elias
