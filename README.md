@@ -7,12 +7,12 @@
 ### Hola 👋, mi nombre es Elias.
 #### Full Stack web developer.
 
-Tengo 28 años, vivo en Cordoba, Argentina. Soy desarrollador web full stack, tengo experiencia trabajando con algunas de las principales tecnologías demandadas en el mercado actual. Me gustaría compartir con ustedes los ultimos proyectos en los que he estado trabajando.
+Tengo 28 años, vivo en Cordoba, Argentina. Soy desarrollador web full stack, me gusta mucho más el Frontend, tengo experiencia trabajando con algunas de las principales tecnologías demandadas en el mercado actual. Aqui comparto algunos de los ultimos proyectos en los que he estado trabajando y sigo mejorando.
 
-**Skills:** JavaScript / Typescript / React / Redux / Node / CSS / HTML / Express / Sequelize / Postgres / Prisma ORM / Bootstrap/Bootstrap Icons / Chart JS / Formik / Cloudinary / Chatbot Kit.
+**Skills:** JavaScript / Typescript / React / Redux / Node / NextJS / CSS / HTML / Express / Sequelize / Postgres / Prisma ORM / Bootstrap/Bootstrap Icons / Chart JS / Formik / Cloudinary / Chatbot Kit.
 
 
-- 📫 ¿Cómo puedes contactarme?: 14elias06andrada4@gmail.com 
+- 📫 ¿Cómo puedes contactarme?: eandrada.dev@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EEA94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eliasandrada-dev//)  
